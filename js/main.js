@@ -4,7 +4,7 @@ $(window).on('load',()=>{
 
 $(document).ready(function () {
     let year = new Date();
-$('.cr').html('   Copyright <span class="fas fa-copyright"></span> ' + year.getFullYear() + ". SoftPlus");
+$('.cr').html('   Copyright <span class="fas fa-copyright"></span> ' + year.getFullYear() + ". Sadullayev Josh*");
 $("#owl-bottle").owlCarousel({
     loop: true,
     margin: 0,
